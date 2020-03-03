@@ -1,0 +1,11 @@
+C:\Users\bogda\OneDrive\Рабочий стол\mylab\my_project\my_project\obj\Debug\netcoreapp3.1\my_project.csprojAssemblyReference.cache
+C:\Users\bogda\OneDrive\Рабочий стол\mylab\my_project\my_project\obj\Debug\netcoreapp3.1\my_project.AssemblyInfoInputs.cache
+C:\Users\bogda\OneDrive\Рабочий стол\mylab\my_project\my_project\obj\Debug\netcoreapp3.1\my_project.AssemblyInfo.cs
+C:\Users\bogda\OneDrive\Рабочий стол\mylab\my_project\my_project\bin\Debug\netcoreapp3.1\my_project.exe
+C:\Users\bogda\OneDrive\Рабочий стол\mylab\my_project\my_project\bin\Debug\netcoreapp3.1\my_project.deps.json
+C:\Users\bogda\OneDrive\Рабочий стол\mylab\my_project\my_project\bin\Debug\netcoreapp3.1\my_project.runtimeconfig.json
+C:\Users\bogda\OneDrive\Рабочий стол\mylab\my_project\my_project\bin\Debug\netcoreapp3.1\my_project.runtimeconfig.dev.json
+C:\Users\bogda\OneDrive\Рабочий стол\mylab\my_project\my_project\bin\Debug\netcoreapp3.1\my_project.dll
+C:\Users\bogda\OneDrive\Рабочий стол\mylab\my_project\my_project\bin\Debug\netcoreapp3.1\my_project.pdb
+C:\Users\bogda\OneDrive\Рабочий стол\mylab\my_project\my_project\obj\Debug\netcoreapp3.1\my_project.dll
+C:\Users\bogda\OneDrive\Рабочий стол\mylab\my_project\my_project\obj\Debug\netcoreapp3.1\my_project.pdb
